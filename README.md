@@ -34,6 +34,10 @@ El motor de base de datos será:
 - Realizar la limpieza de datos para poder obtener mejores indicadores.
 - Transformar y separar los datos para que tengan sentido con un Diagrama Físico e insertar la información de cada una de las tablas según corresponda con Python o SQL.
 
+RESULTADO:
+
+[📄 ETL PYTHON](/ETL.ipynb)
+
 ---
 
 ## BASE DE DATOS (3 pts)
