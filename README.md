@@ -10,7 +10,7 @@ Se requiere que optimicen el Query adjunto, incorporando buenas prácticas. Se t
 
 **Archivo adjunto:**
 
-- `QUERY ORIGINAL.sql`
+- `QUERY ORIGINAL.sql` ( )
 
 ---
 
