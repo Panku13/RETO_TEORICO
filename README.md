@@ -191,7 +191,9 @@ GO
 Teniendo en cuenta el giro de negocio de cualquier institución financiera y en base a su experiencia personal y profesional, de las 11 áreas clave para la gestión de datos del **DAMA-DMBOK**, ¿por cuál de estos principios recomendaría usted iniciar un proceso de incorporación de gobierno de datos?
 
 Teniendo como supuesto que la institución a evaluar tiene actualmente un nivel 0 de gobernanza, justifique y explique su recomendación.
-
+```
+considero que primero se necesita ordenar la forma en que se manejan los datos. Luego la institución debe definir quien es responsable de la información, como se debe usar e implementar reglas. Esto ayydaria tomar mejores desiciones ya que los datos son muy importantes en estas instituciones.
+```
 ---
 
 # 5. TEÓRICO (2 PTS)
@@ -199,15 +201,38 @@ Teniendo como supuesto que la institución a evaluar tiene actualmente un nivel 
 Con sus propias palabras, brinde una definición de los siguientes términos:
 
 - DAMA-DMBOK
+```
+Es una guía que ayuda a manejar mejor los datos y establecer buenas prácticas para su uso.
+```
 - Power BI
+```
+Es un software que permite crear reportes y gráficos para analizar información y tomar decisiones.
+```
 - SSRS
+```
+Es una herramienta para crear reportes con información obtenida de una bases de datos.
+```
 - Gobierno de datos
+```
+Es la forma de organizar y controlar el manejo de los datos dentro de una empresa.
+```
 - Python
+```
+Es un lenguaje de programacion que sirve para transformar datos, crear programas y optimizar tareas.
+```
 - Transact SQL
+```
+Es un lenguaje utilizado para consultar y administrar información en bases de datos de SQL Server.
+```
 - MVVM
+```
+es una manera de organizar el desarrollo de aplicaciones de la parte visual y la lógica.
+```
 - Depuración de código
+```
+Es revisar codigo erroneas y corregirlos para que funcione correctamente.
+```
 
----
 
 # 6. INDICACIONES
 
