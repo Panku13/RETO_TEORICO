@@ -192,6 +192,8 @@ Teniendo en cuenta el giro de negocio de cualquier institución financiera y en 
 
 Teniendo como supuesto que la institución a evaluar tiene actualmente un nivel 0 de gobernanza, justifique y explique su recomendación.
 ```
+El area de Gobernanza de datos
+
 Considero que primero se necesita ordenar la forma en que se manejan los datos.
 Luego la institución debe definir quien es responsable de la información,
 como se debe usar e implementar reglas. Esto ayydaria tomar mejores desiciones ya que los datos
