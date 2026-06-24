@@ -186,6 +186,8 @@ GO
 <img width="1296" height="737" alt="image" src="https://github.com/user-attachments/assets/9961187f-65de-458b-964b-259f05426c1e" />
 
 ```
+Por motivos de Licencia tengo el Power Services
+
 El dashboard muestra que Netflix cuenta con aproximadamente 8,800 títulos,
 con una mayor presencia de películas que de series.
 
