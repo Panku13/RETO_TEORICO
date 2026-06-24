@@ -181,6 +181,9 @@ GO
 - Cargue un reporte base en Power BI Desktop o Power BI Service.
 - Compártalo para que cualquier persona pueda verlo.
 
+
+<img width="992" height="720" alt="image" src="https://github.com/user-attachments/assets/779cae26-2690-476d-b1c7-92804377aafe" />
+
 ---
 
 # 4. CASO DE NEGOCIO (3 PTS)
