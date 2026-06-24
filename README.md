@@ -185,6 +185,17 @@ GO
 
 <img width="1296" height="737" alt="image" src="https://github.com/user-attachments/assets/9961187f-65de-458b-964b-259f05426c1e" />
 
+```
+El dashboard muestra que Netflix cuenta con aproximadamente 8,800 títulos,
+con una mayor presencia de películas que de series.
+
+Los géneros más destacados son TV Mysteries, TV Sci-Fi & Fantasy y TV Horror.
+
+También se observa un crecimiento importante en la cantidad de títulos lanzados a partir de los años 2000,
+alcanzando su punto más alto alrededor de 2019–2020. Además, los meses de abril y
+mayo presentan la mayor cantidad de incorporaciones al catálogo.
+```
+
 ---
 
 # 4. CASO DE NEGOCIO (3 PTS)
@@ -239,25 +250,3 @@ es una manera de organizar el desarrollo de aplicaciones de la parte visual y la
 Es revisar codigo erroneas y corregirlos para que funcione correctamente.
 ```
 
-
-# 6. INDICACIONES
-
-- Cree una carpeta con el primer nombre y primer apellido separado por `_`.
-
-Ejemplo:
-
-```
-nombre_apellido
-```
-
-- Incluya todo el desarrollo en la carpeta, por cada una de las preguntas.
-
-- Al finalizar, remitir sus soluciones mediante correo electrónico a su examinador o publicarlo en un repositorio público y adjuntar la URL para poder ser consumido.
-
----
-
-# 7. RECOMENDACIONES
-
-Procure realizar los análisis que sean convenientes y documentarlos.
-
-Cada comentario o diccionario sobre su solución será valorado.
